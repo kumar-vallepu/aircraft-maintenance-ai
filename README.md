@@ -75,6 +75,3 @@ The system includes built-in evaluation metrics:
 These metrics provide insight into model reliability and prediction quality.
 
 ---
-
-## Project Structure
-  
