@@ -75,3 +75,21 @@ The system includes built-in evaluation metrics:
 These metrics provide insight into model reliability and prediction quality.
 
 ---
+
+## Application Preview
+
+| Home | Data |
+|------|------|
+| ![](assets/home.png) | ![](assets/data.png) |
+
+| RUL | Failure |
+|-----|--------|
+| ![](assets/rul.png) | ![](assets/failure.png) |
+
+| Model | Classification |
+|-------|---------------|
+| ![](assets/model.png) | ![](assets/classification.png) |
+
+| Controls |
+|----------|
+| ![](assets/options.png) |
