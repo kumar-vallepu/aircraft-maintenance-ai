@@ -7,7 +7,7 @@ An AI-based predictive maintenance system for aircraft engines that analyzes sen
 ## Live Application
 
 Access the deployed application:  
-https://your-app.streamlit.app
+https://aircraft-maintenance-ai.streamlit.app
 
 ---
 
