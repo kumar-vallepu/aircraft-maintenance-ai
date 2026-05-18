@@ -95,6 +95,20 @@ These metrics provide insight into model reliability and prediction quality.
 
 
 
+
+ ## Project Structure
+
+```bash
+aircraft-maintenance-ai/
+│
+├── app.py
+├── data/
+├── model/
+├── assets/
+├── requirements.txt
+└── README.md
+```
+
 ---
 
 ## Application Preview
