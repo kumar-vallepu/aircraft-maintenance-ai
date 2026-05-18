@@ -88,6 +88,11 @@ These metrics provide insight into model reliability and prediction quality.
 * Cloud deployment enhancements
 * Explainable AI integration
 * MLOps pipeline implementation
+---
+
+WorkFlow 
+ ![](assets/WorkFlow.png)
+
 
 
 ---
