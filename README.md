@@ -1,4 +1,10 @@
 # Aircraft Predictive Maintenance System
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
+
+
 
 An AI-based predictive maintenance system for aircraft engines that analyzes sensor data to estimate Remaining Useful Life (RUL) and predict potential failures. The system is deployed as an interactive web application for real-time analytics and model insights.
 
@@ -73,6 +79,16 @@ The system includes built-in evaluation metrics:
 - Classification report  
 
 These metrics provide insight into model reliability and prediction quality.
+
+
+## Future Improvements
+
+* Deep Learning-based predictive models
+* Real-time sensor streaming
+* Cloud deployment enhancements
+* Explainable AI integration
+* MLOps pipeline implementation
+
 
 ---
 
